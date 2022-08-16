@@ -1,4 +1,4 @@
-# Random forest classification
+## Random forest classification
 
 Blood donation is an extremely essential contribution that a person may make to society since it not only saves the lives of individuals who need blood, but it is also helpful to donors. People lose blood every day as a result of accidents and injuries and they require fresh blood to compensate for the loss, thus there is a great demand for donors who are willing to donate their blood.
 
