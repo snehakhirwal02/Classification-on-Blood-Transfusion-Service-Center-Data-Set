@@ -16,7 +16,7 @@ The approach to this project is organised in the following steps:
     This involved cleaning of the data(removing the missing or invalid NA values) 
     
 ### - Normalization and feature selection
-    The features/ independent variables are scaled and important features are selected in order to get better 
+    The features/ independent variables are scaled and only important features are selected in order to get better 
     accuracy and results.
     
 ### - Applying classification on the Machine learning model
